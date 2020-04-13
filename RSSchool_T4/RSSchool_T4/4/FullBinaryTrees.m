@@ -24,7 +24,6 @@
 
 @property (nonatomic, retain) Node *left;
 @property (nonatomic, retain) Node *right;
-+(void) levelOrderTraversal:(Node*) root;
 
 @end
 
